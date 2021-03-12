@@ -1,0 +1,44 @@
+#grande00000{
+	background-color:yellow;
+	width:100%;
+	height:910px;
+	
+
+}
+#caja100000{
+	float:left;
+	background-color:#EA420E;
+	width:46%;
+	height:400px;
+	text-align:center;
+	margin:2%;
+	font-size:120px;
+	margin-top:0px;
+	color:white;
+	
+}
+#caja200000{
+	float:right;
+	background-color:#39D736;
+	
+	width:46%;
+	height:840px;
+	text-align:center;
+	font-size:240px;
+	margin:2%;
+	margin-top:0px;
+	
+	
+}
+#caja300000{
+	float:left;
+	background-color:blue;
+	width:46%;
+	height:400px;
+	text-align:center;
+	font-size:120px;
+	margin:2%;
+	margin-top:0px;
+	color:white;
+}
+

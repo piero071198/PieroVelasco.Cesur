@@ -1,0 +1,292 @@
+.overlay15 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay15:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody15{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar15{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay14 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay14:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody14{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar14{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay13 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay13:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody13{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar13
+{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay12 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay12:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody12{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar12{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay11 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay11:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody11{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar11{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay10 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay10:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody10{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar10{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+.overlay {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+
+
+.overlay2 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    transition: opacity 500ms;
+    visibility: hidden;
+    opacity: 0;
+}
+.overlay2:target {
+    visibility: visible;
+    opacity: 1;
+}
+#popupBody2{
+    width: 60%;
+    padding: 2%;
+    border-radius: 15px;
+    box-shadow: 0 0 5px #CCC;
+    background: #FFF;
+    position: relative;
+    transition: all 5s ease-in-out;
+    margin: 15% auto;
+    margin-top: 5%;    
+}
+#cerrar2{
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #F00;
+}
+

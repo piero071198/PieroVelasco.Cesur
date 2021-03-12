@@ -1,0 +1,22 @@
+<html>
+    <head>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        
+    </head>
+    <body>
+        <p id="titulo">Titulo</p>
+    <p id="parrafo">parrafo parrafoparrafoparrafoparrafoparrafoparrafoparrafoparrafoparrafoparrafoparrafo</p> 
+    <button onclick="verYcambiar()">EN ROJO con JavaScript</button>
+
+    </body>
+    <script type="text/javascript">
+        function verYcambiar() {
+
+          $("#parrafo").css("color", "white");
+          $("#titulo").css("color", "white");
+          $("html").css("background", "black");
+          $("#titulo").css("font-size", "30px");
+
+		}
+    </script>
+</html>

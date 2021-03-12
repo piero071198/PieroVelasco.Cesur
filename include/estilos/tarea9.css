@@ -1,0 +1,70 @@
+#grande{
+	background-color:yellow;
+	width:100%;
+	height:910px;
+	
+
+}
+
+	
+
+#caja1000{
+	float:left;
+	background-color:#EA420E;
+	width:46%;
+	height:400px;
+	
+	margin:2%;
+	margin-top:0px;
+	color:white;
+	border: blue 5px solid;
+	margin-bottom:1%;
+	display:flex;
+	
+}
+#caja1000 li{
+	 list-style-type: circle;
+	 font-size:50px;
+	 color:black;
+}
+#caja2000{
+	float:right;
+	background-color:#39D736;
+	
+	width:43%;
+	height:840px;
+	margin:2%;
+	margin-top:0px;
+	
+	border: black 2px dotted;
+	
+	display:flex;
+	
+}
+#caja2000 li{
+	 list-style-type: square;
+	  font-size:50px;
+	
+}
+
+#caja3000{
+	float:left;
+	background-color:blue;
+	width:46%;
+	height:400px;
+
+	margin:2%;
+	
+	margin-top:0px;
+	color:white;
+	border: green 4px dashed;
+	display:flex;
+}
+#caja3000 li{
+	 list-style-type: upper-roman;
+	  font-size:50px;
+	 color:red;
+}
+#centrar{
+	margin:0px auto;
+}

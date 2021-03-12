@@ -1,0 +1,238 @@
+*{
+font-family: arial;
+
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    min-height:calc(100% - 50px);
+}
+.header{
+    background: white;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase ;
+}
+a{
+    text-decoration:none;
+    color:#fff;
+}
+
+footer{
+    background: black;
+    color: white ;
+    text-align: center;
+    font-size: 10px;
+    padding: 50px;
+    margin-bottom: 0px;
+}
+
+
+
+.img_productos{
+
+    width: 100%;
+   
+
+}
+.name_producto{
+    
+    color: black;
+    padding-top: 5px;
+    margin: 0px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    height: 45px;
+}
+
+
+
+
+ 
+
+  
+  .product {
+    max-width: 100%;
+    margin: 0 .5%;
+    margin-left: 0.8%;
+    width: 23% ;
+    height: 350px;
+  
+    display: inline-block;
+    z-index: 1;
+
+} 
+.nombreproductodescripcion{
+  
+    font-weight: bold;
+}
+
+
+@media (max-width: 1600px){
+    .product {
+        max-width: 100%;
+        margin: 0 .5%;
+        margin-right: 5%;
+        width: 17%;
+        height: 350px;
+   
+        display: inline-block;
+        z-index: 1;
+        margin-left: 2.7%;
+        
+    } 
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        height: 45px;
+        
+    }
+    .nombreproductodescripcion{
+        font-size:32px;
+        font-weight: bold;
+    }
+
+
+}  
+@media (max-width: 1350px){
+    
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        height: 45px;
+    }
+    .nombreproductodescripcion{
+        font-size:27px;
+        font-weight: bold;
+    }
+
+
+}  
+@media (max-width: 1250px){
+    .product {
+        max-width: 100%;
+        margin-right: 10%;
+        margin: 0 .5%;
+        width:22%;
+        height: 350px;
+        border: 1px solid white;
+        display: inline-block;
+        z-index: 1;
+        margin-left: 2%;
+    } 
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 12.5px;
+        font-weight: bold;
+        height: 45px;
+    }
+    .nombreproductodescripcion{
+        font-size:25px;
+        font-weight: bold;
+    }
+
+
+}
+@media (max-width:1100px){
+    .nombreproductodescripcion{
+        font-size:21px;
+        font-weight: bold;
+    }
+}
+@media (max-width: 1000px){
+    .product {
+        max-width: 100%;
+        margin-right: 10%;
+        margin: 0 .5%;
+        width: 30%;
+        height: 350px;
+        border: 1px solid white;
+        display: inline-block;
+        z-index: 1;
+        margin-left: 2%;
+    } 
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 13px;
+        font-weight: bold;
+        height: 45px;
+    }
+   
+
+
+}  
+@media (max-width: 800px){
+    .product {
+        margin-right: 10%;
+        max-width: 100%;
+        margin: 0 .5%;
+        width: 40%;
+        height: 350px;
+        border: 1px solid white;
+        display: inline-block;
+        z-index: 1;
+        margin-left: 8%;
+    } 
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 12px;
+        font-weight: bold;
+        height: 45px;
+    }
+    .nombreproductodescripcion{
+        font-size:23px;
+        
+    }
+}  
+@media (max-width: 600px){
+    .product {
+        max-width: 100%;
+        margin: 0 .5%;
+        margin-left: 26%;
+        width: 50%;
+        height: 350px;
+        border: 1px solid white;
+        display: inline-block;
+        z-index: 1;
+    } 
+    .name_producto{
+    
+        color: black;
+        padding-top: 5px;
+        margin: 0px;
+        text-align: center;
+        font-size: 12px;
+        font-weight: bold;
+        height: 45px;
+    }
+    .nombreproductodescripcion{
+        font-size:24px;
+        
+    }
+}  

@@ -1,0 +1,109 @@
+#grande{
+	background-color:yellow;
+	width:100%;
+	height:60%;
+	
+
+}
+
+	
+
+#caja1{
+	float:left;
+	background-color:#EA420E;
+	width:46%;
+	height:45%;
+	
+	margin:2%;
+	margin-top:0px;
+	color:white;
+	border: blue 5px solid;
+	margin-bottom:1%;
+	display:flex;
+	
+}
+#caja1 li{
+	 list-style-type: circle;
+	 font-size:50px;
+	 color:black;
+}
+#caja2{
+	float:right;
+	background-color:#39D736;
+	
+	width:43%;
+	height:93%;
+	margin:2%;
+	margin-top:0px;
+	
+	border: black 2px dotted;
+	
+	display:flex;
+	
+}
+#caja2 li{
+	 list-style-type: square;
+	  font-size:50px;
+	
+}
+
+#caja3{
+	float:left;
+	background-color:blue;
+	width:46%;
+	height:46%;
+
+	margin:2%;
+	
+	margin-top:0px;
+	color:white;
+	border: green 4px dashed;
+	display:flex;
+}
+#caja3 li{
+	 list-style-type: upper-roman;
+	  font-size:50px;
+	 color:red;
+}
+#centrar{
+	margin:0px auto;
+}
+@media(max-width:2200px){
+	#caja2 li{
+		font-size: 30px;
+	}
+	#caja1 li{
+		font-size:30px;
+
+   }
+   #caja3 li{
+	 font-size:30px;
+
+}
+}
+@media(max-width:1600px){
+	#caja2 li{
+		font-size: 20px;
+	}
+	#caja1 li{
+		font-size:20px;
+
+   }
+   #caja3 li{
+	 font-size:20px;
+
+}
+}
+@media(max-width:800px){
+	#caja2 li{
+		font-size: 12px;
+	}
+	#caja1 li{
+		font-size:12px;
+
+   }
+   #caja3 li{
+	 font-size:12px;
+
+}
+}
